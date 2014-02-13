@@ -1,0 +1,5 @@
+C:\Users\bvd\Documents\GitHub\nreality-journeyman-prework\FizzBuzzConsole\bin\Debug\FizzBuzzConsole.exe
+C:\Users\bvd\Documents\GitHub\nreality-journeyman-prework\FizzBuzzConsole\bin\Debug\FizzBuzzConsole.pdb
+C:\Users\bvd\Documents\GitHub\nreality-journeyman-prework\FizzBuzzConsole\obj\Debug\FizzBuzzConsole.csprojResolveAssemblyReference.cache
+C:\Users\bvd\Documents\GitHub\nreality-journeyman-prework\FizzBuzzConsole\obj\Debug\FizzBuzzConsole.exe
+C:\Users\bvd\Documents\GitHub\nreality-journeyman-prework\FizzBuzzConsole\obj\Debug\FizzBuzzConsole.pdb

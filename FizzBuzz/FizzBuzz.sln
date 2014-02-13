@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz.csproj", "{8CB58EBA-79C7-4629-AF6D-2667C80B26EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzConsole", "..\FizzBuzzConsole\FizzBuzzConsole.csproj", "{4F9FD864-6EEE-4BBA-805D-5AA4305E196F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{8CB58EBA-79C7-4629-AF6D-2667C80B26EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CB58EBA-79C7-4629-AF6D-2667C80B26EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CB58EBA-79C7-4629-AF6D-2667C80B26EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F9FD864-6EEE-4BBA-805D-5AA4305E196F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F9FD864-6EEE-4BBA-805D-5AA4305E196F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F9FD864-6EEE-4BBA-805D-5AA4305E196F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F9FD864-6EEE-4BBA-805D-5AA4305E196F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

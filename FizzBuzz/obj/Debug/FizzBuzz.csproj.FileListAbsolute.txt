@@ -3,3 +3,10 @@ C:\HGRepos\JourneyMan\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
 C:\HGRepos\JourneyMan\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.dll
 C:\HGRepos\JourneyMan\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
 C:\HGRepos\JourneyMan\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\bvd\Documents\GitHub\nreality-journeyman-prework\FizzBuzz\bin\Debug\FizzBuzz.dll
+C:\Users\bvd\Documents\GitHub\nreality-journeyman-prework\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\bvd\Documents\GitHub\nreality-journeyman-prework\FizzBuzz\bin\Debug\FizzBuzzConsole.exe
+C:\Users\bvd\Documents\GitHub\nreality-journeyman-prework\FizzBuzz\bin\Debug\FizzBuzzConsole.pdb
+C:\Users\bvd\Documents\GitHub\nreality-journeyman-prework\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\bvd\Documents\GitHub\nreality-journeyman-prework\FizzBuzz\obj\Debug\FizzBuzz.dll
+C:\Users\bvd\Documents\GitHub\nreality-journeyman-prework\FizzBuzz\obj\Debug\FizzBuzz.pdb
