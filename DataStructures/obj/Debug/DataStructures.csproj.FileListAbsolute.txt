@@ -1,0 +1,5 @@
+C:\HGRepos\JourneyMan\DataStructures\DataStructures\bin\Debug\DataStructures.dll
+C:\HGRepos\JourneyMan\DataStructures\DataStructures\bin\Debug\DataStructures.pdb
+C:\HGRepos\JourneyMan\DataStructures\DataStructures\obj\Debug\DataStructures.csprojResolveAssemblyReference.cache
+C:\HGRepos\JourneyMan\DataStructures\DataStructures\obj\Debug\DataStructures.dll
+C:\HGRepos\JourneyMan\DataStructures\DataStructures\obj\Debug\DataStructures.pdb
